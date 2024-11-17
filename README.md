@@ -81,11 +81,13 @@ City name and date
 Weather condition icon
 Temperature in Fahrenheit
 Wind speed and humidity
+
 **5-Day Forecast:**
 Date
 Weather condition icon
 Temperature in Fahrenheit
 Wind speed and humidity
+
 **Search History:**
 Persistent storage for searched cities
 Quick access to previous searches
@@ -93,6 +95,7 @@ Option to delete cities from the search history
 Responsive for both mobile and desktop
 
 #Technology Used: 
+
 **Frontend:**
 
 TypeScript
@@ -116,7 +119,8 @@ File-based storage for search history
 OpenWeather API (for weather data)
 OpenWeather Geocoding API (for city coordinates)
 
-#Environment Variables
+#Environment Variables:
+
 In the .env file in the server directory, add the following:
 ```
 API_BASE_URL=https://api.openweathermap.org
