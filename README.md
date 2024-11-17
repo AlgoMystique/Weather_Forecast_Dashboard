@@ -119,7 +119,7 @@ File-based storage for search history
 OpenWeather API (for weather data)
 OpenWeather Geocoding API (for city coordinates)
 
-#Environment Variables:
+# Environment Variables:
 
 In the .env file in the server directory, add the following:
 ```
@@ -127,14 +127,14 @@ API_BASE_URL=https://api.openweathermap.org
 API_KEY="your-api-key"
 ```
 
-#Deployment
+# Deployment
 
 The Weather Dashboard is deployed on Render, a cloud platform that automatically builds and deploys web applications.
 
 Deployment Link: [Weather Dashboard - Live](https://weather-forecast-dashboard-mr3d.onrender.com)
 Please note that the application may experience an initial 50-second buffer time when first loading due to the platform's startup processes.
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
