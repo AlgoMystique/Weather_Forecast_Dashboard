@@ -30,40 +30,40 @@ Built with modern web technologies like **TypeScript**, **Express.js**, and **Vi
 Follow these steps to get the project up and running:
 
 
-# 1. Clone the repository
+## 1. Clone the repository
 ```
 git clone https://github.com/dgoldenthal/Weather-Forecast-Dashboard.git
 ```
-# 2. Install dependencies for both client and server
+## 2. Install dependencies for both client and server
 ```
 npm install 
 ```
-# 3. Install server dependencies
+## 3. Install server dependencies
 ```
 cd server
 npm install
 ```
-# 4. Install client dependencies
+## 4. Install client dependencies
 ```
 cd ../client
 npm install
 cd ..
 ```
-# 5. Create a .env file in the server directory
+## 5. Create a .env file in the server directory
 ```
 cd server
 touch .env
 ```
-# 6. Add your OpenWeather API key to the .env file
+## 6. Add your OpenWeather API key to the .env file
 ```
 echo "API_BASE_URL=https://api.openweathermap.org" >> .env
 echo "API_KEY='your-api-key'" >> .env
 ```
-# 7. Build and start the application
+## 7. Build and start the application
 ```
 npm run start
 ```
-# 8. Access the application in your browser at:
+## 8. Access the application in your browser at:
 ```
 http://localhost:3001
 ```
