@@ -94,7 +94,7 @@ Quick access to previous searches
 Option to delete cities from the search history
 Responsive for both mobile and desktop
 
-#Technology Used: 
+# Technology Used: 
 
 **Frontend:**
 
