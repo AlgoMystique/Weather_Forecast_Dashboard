@@ -34,7 +34,7 @@ Follow these steps to get the project up and running:
 ```
 git clone https://github.com/dgoldenthal/Weather-Forecast-Dashboard.git
 ```
-## 2. Install dependencies for both client and server
+## 2. Install dependencies for both client and server and root directory
 ```
 npm install 
 ```
